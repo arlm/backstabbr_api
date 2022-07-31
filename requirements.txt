@@ -1,3 +1,3 @@
 discord.py
 requests
-html5print
+git+https://github.com/arlm/html5print.git@master#egg=html5print
